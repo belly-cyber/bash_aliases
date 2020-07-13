@@ -1,3 +1,5 @@
 alias treeless='tree -afQpshA |more'
 alias c='clear'
 alias lisa='ls -lisah'
+alias python='python3.7'
+alias so_listener='socat tcp4_listen:443,fork file:$1'
